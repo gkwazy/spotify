@@ -1,0 +1,25 @@
+{
+  "name": "09-homework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gkwazy/-Language-Interpretation-and-Recognition.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gkwazy/-Language-Interpretation-and-Recognition/issues"
+  },
+  "homepage": "https://github.com/gkwazy/-Language-Interpretation-and-Recognition#readme",
+  "devDependencies": {
+    "dotenv": "^6.0.0"
+  },
+  "dependencies": {
+    "node-spotify-api": "^1.0.7"
+  }
+}
